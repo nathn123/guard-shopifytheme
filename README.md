@@ -103,3 +103,7 @@ end
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dannysmith/guard-shopifytheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+this is a change
+not a bit change 
+but its a change
+
